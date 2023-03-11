@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thegamershollow.github.io/pages/</loc>
+    <lastmod>2023-03-11T13:58:41+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/pages/privacy/</loc>
+    <lastmod>2023-03-11T13:58:41+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/</loc>
+    <lastmod>2023-03-11T13:58:41+00:00</lastmod>
+  </url><url>
     <loc>https://thegamershollow.github.io/posts/dummies-guide-jailbreaking-wiiu/</loc>
     <lastmod>2023-02-18T16:21:56+00:00</lastmod>
   </url><url>
@@ -24,9 +33,6 @@
     <lastmod>2023-02-18T16:21:56+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/tags/</loc>
-    <lastmod>2023-02-18T16:21:56+00:00</lastmod>
-  </url><url>
-    <loc>https://thegamershollow.github.io/</loc>
     <lastmod>2023-02-18T16:21:56+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/tags/tutorial/</loc>
@@ -180,9 +186,5 @@
     <lastmod>2021-01-04T19:30:00+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/categories/</loc>
-  </url><url>
-    <loc>https://thegamershollow.github.io/pages/</loc>
-  </url><url>
-    <loc>https://thegamershollow.github.io/pages/privacy/</loc>
   </url>
 </urlset>
