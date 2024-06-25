@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.github.io/en/pages/</link>
+    <link>http://localhost:1313/en/pages/</link>
     <description>Recent content in Pages on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Sun, 19 Mar 2023 13:35:09 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.github.io/en/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://thegamershollow.github.io/en/pages/about/</link>
+      <link>http://localhost:1313/en/pages/about/</link>
       <pubDate>Sun, 19 Mar 2023 13:35:09 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/pages/about/</guid>
+      <guid>http://localhost:1313/en/pages/about/</guid>
       <description>About this site TheGamersHollow.github.io covers gaming news, and homebrew tutorials. Game reviews, previews or retro gaming articles are just few things you will find on the site. We like to cover video games past, present and future.&#xA;Main Writer: Ethan aka. TheGamersHollow I am a Video Game enthusiast, and a computer programer. I have been playing video games for most of my life, and am an avid part of the Wii U and 3DS homebrew community.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://thegamershollow.github.io/en/pages/privacy/</link>
+      <link>http://localhost:1313/en/pages/privacy/</link>
       <pubDate>Sat, 11 Mar 2023 13:58:41 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/pages/privacy/</guid>
+      <guid>http://localhost:1313/en/pages/privacy/</guid>
       <description>Privacy Policy for The Gamers Hollow At The Gamers Hollow, accessible from thegamershollow.github.io , one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Gamers Hollow and how we use it.&#xA;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&#xA;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in The Gamers Hollow.</description>
     </item>
   </channel>
