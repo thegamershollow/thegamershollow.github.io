@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
-    <lastBuildDate>Sat, 18 Feb 2023 16:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 19:05:21 +0000</lastBuildDate>
     <atom:link href="https://thegamershollow.github.io/en/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Windows on a Chromebook</title>
+      <link>https://thegamershollow.github.io/en/posts/windows-on-chromebook/</link>
+      <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/en/posts/windows-on-chromebook/</guid>
+      <description>A guide to installing windows on a Lenove 100e gen2 ast chromebook (for archive purposes)&#xA;What you need A Lenovo 100e/300e gen2 ast Chromebook. A sd card or usb drive. A mouse (wired, or dongle only). Power adapter for the chromebook. Ventoy downloaded for your OS Drivers downloaded from this guide. Tiny11 iso downloaded from this guide. Downloads Tiny 11 ISO Ventoy Visual C++ Redist CR50 TPM Driver Chrome EC Driver Radeon GPU Drivers !</description>
+    </item>
     <item>
       <title>A Dummies Guide to Jailbreaking Your Wii U</title>
       <link>https://thegamershollow.github.io/en/posts/dummies-guide-jailbreaking-wiiu/</link>
