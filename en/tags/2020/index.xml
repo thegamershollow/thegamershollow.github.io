@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020 on The Gamer&#39;s Hollow</title>
-    <link>http://localhost:1313/en/tags/2020/</link>
+    <link>https://thegamershollow.github.io/en/tags/2020/</link>
     <description>Recent content in 2020 on The Gamer&#39;s Hollow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Tue, 01 Jun 2021 17:57:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thegamershollow.github.io/en/tags/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metroid Prime 4</title>
-      <link>http://localhost:1313/en/posts/metroid-prime-4/</link>
+      <link>https://thegamershollow.github.io/en/posts/metroid-prime-4/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/metroid-prime-4/</guid>
+      <guid>https://thegamershollow.github.io/en/posts/metroid-prime-4/</guid>
       <description>[youtube https://www.youtube.com/watch?v=nFbDmTjS _MI?controls=0]&#xA;We Heard about this 2017 it is now May of 2021.&#xA;we(the fans of the Metroid series ) have been waiting for this since they announced it at e3 2017, they have given us even more information on it since than though. Nintendo has said that The dev team for Metroid prime 4 messed up and is remaking the WHOLE thing. so hopefully some info on it on this E3 that is all.</description>
     </item>
     <item>
       <title>My Thoughts On Super Mario 3D All-Stars</title>
-      <link>http://localhost:1313/en/posts/my-thoughts-on-super-mario-3d-all-stars/</link>
+      <link>https://thegamershollow.github.io/en/posts/my-thoughts-on-super-mario-3d-all-stars/</link>
       <pubDate>Thu, 20 May 2021 12:49:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/my-thoughts-on-super-mario-3d-all-stars/</guid>
+      <guid>https://thegamershollow.github.io/en/posts/my-thoughts-on-super-mario-3d-all-stars/</guid>
       <description>Today, i will be telling you my thoughts on Super Mario 3D all stars.&#xA;Super Mario 3D all Stars is a Super Mario 35th anniversary game that was released September 18th 2020 for 59.99 USD it was taken down march, 31st 2021, you can still find it in stores but it is very rare. it includes Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy. Super Mario 64</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Release on The Gamer&#39;s Hollow</title>
-    <link>http://localhost:1313/en/tags/release/</link>
+    <link>https://thegamershollow.github.io/en/tags/release/</link>
     <description>Recent content in Release on The Gamer&#39;s Hollow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Wed, 05 Apr 2023 14:51:33 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thegamershollow.github.io/en/tags/release/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nintendo Switch Online Update - Pokemon Stadium?</title>
-      <link>http://localhost:1313/en/posts/nintendo-switch-online-update-pokemon-stadium/</link>
+      <link>https://thegamershollow.github.io/en/posts/nintendo-switch-online-update-pokemon-stadium/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/nintendo-switch-online-update-pokemon-stadium/</guid>
+      <guid>https://thegamershollow.github.io/en/posts/nintendo-switch-online-update-pokemon-stadium/</guid>
       <description>Nintendo fans have reason to celebrate, as one of the most beloved classic titles from the Nintendo 64 era is making its way to the Nintendo Switch Online service. Pokémon Stadium, the classic 3D battler and minigame collection, will be available to play on Wednesday, April 12th, 2023.&#xA;While this news has been long-awaited, it is not without a catch. As with all N64 games on the Switch Online service, players will need the expansion pack in order to play it.</description>
     </item>
   </channel>
