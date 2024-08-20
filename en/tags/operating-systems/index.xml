@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operating Systems on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.space/en/tags/operating-systems/</link>
+    <link>http://localhost:1313/en/tags/operating-systems/</link>
     <description>Recent content in Operating Systems on The Gamer&#39;s Hollow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Fri, 16 Aug 2024 10:49:20 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.space/en/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Linux as a Daily Driver</title>
-      <link>https://thegamershollow.space/en/posts/using-linux-as-a-daily-driver/</link>
+      <link>http://localhost:1313/en/posts/using-linux-as-a-daily-driver/</link>
       <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
-      <guid>https://thegamershollow.space/en/posts/using-linux-as-a-daily-driver/</guid>
+      <guid>http://localhost:1313/en/posts/using-linux-as-a-daily-driver/</guid>
       <description>Linux, lot&amp;rsquo;s of people use linux as their daily driver OS and I do as well, I use Linux Mint 22 as my daily drive OS in 2024 because it&amp;rsquo;s simple and easy to manage. I also use Linux because I have freedom of customization and installing anything I want to tweak the operating system as a whole.&#xA;Why I Switched I switched to Linux because I found it to be more open and inviting for the tweaks I wanted to make, Mac OS was very limited in what I could customize and do because of it&amp;rsquo;s secure nature in addition to that i&amp;rsquo;m using an old Macbook Pro from early 2011 as my daily driver laptop so the latest versions of Mac OS won&amp;rsquo;t run on my laptop so that was another reason for me to switch to linux.</description>
     </item>
   </channel>

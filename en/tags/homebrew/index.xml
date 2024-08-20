@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homebrew on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.space/en/tags/homebrew/</link>
+    <link>http://localhost:1313/en/tags/homebrew/</link>
     <description>Recent content in Homebrew on The Gamer&#39;s Hollow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Tue, 09 Jul 2024 15:41:13 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.space/en/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3DS Homebrew is Amazing</title>
-      <link>https://thegamershollow.space/en/posts/3ds-homebrew-is-amazing/</link>
+      <link>http://localhost:1313/en/posts/3ds-homebrew-is-amazing/</link>
       <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
-      <guid>https://thegamershollow.space/en/posts/3ds-homebrew-is-amazing/</guid>
+      <guid>http://localhost:1313/en/posts/3ds-homebrew-is-amazing/</guid>
       <description>Homebrew on the 3DS/2DS is amazing, you are able to do so much with the handheld.&#xA;Getting Homebrew onto the 3DS Go to 3ds.hacks.guide and follow the guide there. After that you should have a jailbroken 3DS. Depending on what 3DS you have (2DS, 3DS, n3DS, n2DS, etc.) some homebrew apps might not work properly.&#xA;Now that you have a jailbroken 3DS let&amp;rsquo;s go over the best homebrew for the 3DS.</description>
     </item>
     <item>
       <title>An Era of Games at a Close</title>
-      <link>https://thegamershollow.space/en/posts/an-era-of-games-at-a-close/</link>
+      <link>http://localhost:1313/en/posts/an-era-of-games-at-a-close/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.space/en/posts/an-era-of-games-at-a-close/</guid>
+      <guid>http://localhost:1313/en/posts/an-era-of-games-at-a-close/</guid>
       <description>The Nintendo Wii U and 3DS EShops have been officially shutdown, While you’ll no longer be able to purchase games or DLC from either EShop, you’ll still be able to redownload the games you’ve already bought and play online for the time being. The company warned of the shutdown about a year ago, the homebrew community has put lots of effort into archiving all the software that was/is available on the storefront.</description>
     </item>
     <item>
       <title>A Dummies Guide to Jailbreaking Your Wii U</title>
-      <link>https://thegamershollow.space/en/posts/dummies-guide-jailbreaking-wiiu/</link>
+      <link>http://localhost:1313/en/posts/dummies-guide-jailbreaking-wiiu/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      <guid>https://thegamershollow.space/en/posts/dummies-guide-jailbreaking-wiiu/</guid>
+      <guid>http://localhost:1313/en/posts/dummies-guide-jailbreaking-wiiu/</guid>
       <description>What You Need A Wii U with the latest firmware installed (The Wii U can be from any region) An SD card or microSD card with an adapter A computer to copy files to the SD card An internet connection setup on your Wii U Setting up The SD Card Plug the SD card into your computer and format it to FAT-32 a guide on how to do that can be found HERE.</description>
     </item>
   </channel>

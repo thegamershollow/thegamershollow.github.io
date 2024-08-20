@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.space/en/categories/</link>
+    <link>http://localhost:1313/en/categories/</link>
     <description>Recent content in Categories on The Gamer&#39;s Hollow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
-    <atom:link href="https://thegamershollow.space/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
