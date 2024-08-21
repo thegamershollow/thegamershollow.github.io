@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
-    <lastBuildDate>Fri, 16 Aug 2024 10:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 12:52:57 +0000</lastBuildDate>
     <atom:link href="https://thegamershollow.github.io/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux Install Guide</title>
+      <link>https://thegamershollow.github.io/en/posts/arch-linux-install-guide/</link>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/en/posts/arch-linux-install-guide/</guid>
+      <description>A usefull guide for installing arch linux using the command-line.&#xA;Overview Arch Linux is a linux distro that a lot of people say is too hard to install because you have to do everything yourself, but as arch linux has grown the user base has as well and with that, it has become more simple to install.&#xA;This guide is aimed at helping you install arch linux on your device. Let&amp;rsquo;s get to the installation.</description>
+    </item>
     <item>
       <title>Using Linux as a Daily Driver</title>
       <link>https://thegamershollow.github.io/en/posts/using-linux-as-a-daily-driver/</link>

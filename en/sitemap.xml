@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thegamershollow.github.io/en/tags/daily-driver/</loc>
-    <lastmod>2024-08-16T10:49:20+00:00</lastmod>
+    <loc>https://thegamershollow.github.io/en/tags/arch-linux/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/posts/arch-linux-install-guide/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/tags/guide/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/en/tags/linux/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/tags/linux-guide/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/posts/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/tags/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/</loc>
+    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/tags/daily-driver/</loc>
     <lastmod>2024-08-16T10:49:20+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/en/tags/linux-mint/</loc>
@@ -15,15 +36,6 @@
     <lastmod>2024-08-16T10:49:20+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/en/tags/os/</loc>
-    <lastmod>2024-08-16T10:49:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thegamershollow.github.io/en/posts/</loc>
-    <lastmod>2024-08-16T10:49:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thegamershollow.github.io/en/tags/</loc>
-    <lastmod>2024-08-16T10:49:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thegamershollow.github.io/en/</loc>
     <lastmod>2024-08-16T10:49:20+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/en/posts/using-linux-as-a-daily-driver/</loc>
@@ -48,9 +60,6 @@
     <lastmod>2024-07-08T19:05:21+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/en/tags/google/</loc>
-    <lastmod>2024-07-08T19:05:21+00:00</lastmod>
-  </url><url>
-    <loc>https://thegamershollow.github.io/en/tags/guide/</loc>
     <lastmod>2024-07-08T19:05:21+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/en/tags/hack/</loc>

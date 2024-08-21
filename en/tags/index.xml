@@ -7,20 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
-    <lastBuildDate>Fri, 16 Aug 2024 10:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 12:52:57 +0000</lastBuildDate>
     <atom:link href="https://thegamershollow.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Daily Driver</title>
-      <link>https://thegamershollow.github.io/en/tags/daily-driver/</link>
-      <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/daily-driver/</guid>
+      <title>Arch Linux</title>
+      <link>https://thegamershollow.github.io/en/tags/arch-linux/</link>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/en/tags/arch-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>https://thegamershollow.github.io/en/tags/guide/</link>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/en/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
       <link>https://thegamershollow.github.io/en/tags/linux/</link>
-      <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
       <guid>https://thegamershollow.github.io/en/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Guide</title>
+      <link>https://thegamershollow.github.io/en/tags/linux-guide/</link>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/en/tags/linux-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daily Driver</title>
+      <link>https://thegamershollow.github.io/en/tags/daily-driver/</link>
+      <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/en/tags/daily-driver/</guid>
       <description></description>
     </item>
     <item>
@@ -84,13 +105,6 @@
       <link>https://thegamershollow.github.io/en/tags/google/</link>
       <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
       <guid>https://thegamershollow.github.io/en/tags/google/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guide</title>
-      <link>https://thegamershollow.github.io/en/tags/guide/</link>
-      <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/guide/</guid>
       <description></description>
     </item>
     <item>
