@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on The Gamer&#39;s Hollow</title>
+    <link>https://thegamershollow.github.io/en/tags/tech/</link>
+    <description>Recent content in Tech on The Gamer&#39;s Hollow</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
+    <lastBuildDate>Thu, 21 Nov 2024 09:19:03 +0000</lastBuildDate>
+    <atom:link href="https://thegamershollow.github.io/en/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switching to Arch Linux</title>
+      <link>https://thegamershollow.github.io/en/posts/switching-to-arch-linux/</link>
+      <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/en/posts/switching-to-arch-linux/</guid>
+      <description>&lt;p&gt;About 3 months ago, I switched to using Linux instead of Mac OS or Windows, because it was more stable and open-source. Since that switch I had been using Linux Mint 22 as my daily driver OS but about a month ago I switched to a distro based on Arch - Endeavour OS - and have loved it since, the freedom of customization the freedom of being able to install almost anything from the AUR and the freedom of open-source software for gaming.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
