@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thegamershollow.github.io/en/posts/</loc>
+    <lastmod>2024-08-22T10:42:44+00:00</lastmod>
+  </url><url>
+    <loc>https://thegamershollow.github.io/en/</loc>
+    <lastmod>2024-08-22T10:42:44+00:00</lastmod>
+  </url><url>
     <loc>https://thegamershollow.github.io/en/tags/arch-linux/</loc>
     <lastmod>2024-08-21T12:52:57+00:00</lastmod>
   </url><url>
@@ -17,13 +23,7 @@
     <loc>https://thegamershollow.github.io/en/tags/linux-guide/</loc>
     <lastmod>2024-08-21T12:52:57+00:00</lastmod>
   </url><url>
-    <loc>https://thegamershollow.github.io/en/posts/</loc>
-    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
-  </url><url>
     <loc>https://thegamershollow.github.io/en/tags/</loc>
-    <lastmod>2024-08-21T12:52:57+00:00</lastmod>
-  </url><url>
-    <loc>https://thegamershollow.github.io/en/</loc>
     <lastmod>2024-08-21T12:52:57+00:00</lastmod>
   </url><url>
     <loc>https://thegamershollow.github.io/en/tags/apple/</loc>

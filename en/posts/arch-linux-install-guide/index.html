@@ -125,35 +125,35 @@
 <pre tabindex="0"><code># fdisk /dev/the_disk_to_be_partitioned
 </code></pre><h4 id="example-disk-layout">Example disk layout</h4>
 <table>
-<thead>
-<tr>
-<th style="text-align:left">Mount point on the Installed System</th>
-<th style="text-align:left">Partition</th>
-<th style="text-align:left">Partition Type</th>
-<th style="text-align:left">Suggested Size</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">/efi</td>
-<td style="text-align:left">/dev/efi_system_partition</td>
-<td style="text-align:left">Efi</td>
-<td style="text-align:left">512 MiB</td>
-</tr>
-<tr>
-<td style="text-align:left">[SWAP]</td>
-<td style="text-align:left">/dev/swap_partition</td>
-<td style="text-align:left">Linux Swap</td>
-<td style="text-align:left">Use this: <a href="https://pickwicksoft.github.io/swapcalc/" target="_blank">Swap Calc</a>
+  <thead>
+      <tr>
+          <th style="text-align: left">Mount point on the Installed System</th>
+          <th style="text-align: left">Partition</th>
+          <th style="text-align: left">Partition Type</th>
+          <th style="text-align: left">Suggested Size</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">/efi</td>
+          <td style="text-align: left">/dev/efi_system_partition</td>
+          <td style="text-align: left">Efi</td>
+          <td style="text-align: left">512 MiB</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">[SWAP]</td>
+          <td style="text-align: left">/dev/swap_partition</td>
+          <td style="text-align: left">Linux Swap</td>
+          <td style="text-align: left">Use this: <a href="https://pickwicksoft.github.io/swapcalc/" target="_blank">Swap Calc</a>
 </td>
-</tr>
-<tr>
-<td style="text-align:left">/</td>
-<td style="text-align:left">/dev/root_partition</td>
-<td style="text-align:left">Linux x86_64 root (/)</td>
-<td style="text-align:left">Remainder of the device. <br>At least 23–32 GiB.</td>
-</tr>
-</tbody>
+      </tr>
+      <tr>
+          <td style="text-align: left">/</td>
+          <td style="text-align: left">/dev/root_partition</td>
+          <td style="text-align: left">Linux x86_64 root (/)</td>
+          <td style="text-align: left">Remainder of the device. <br>At least 23–32 GiB.</td>
+      </tr>
+  </tbody>
 </table>
 <h3 id="creating-and-formating-the-partitions">Creating and Formating the partitions</h3>
 <pre tabindex="0"><code>When I type enter hit the return key
@@ -260,34 +260,34 @@ LANG=en_US.UTF-8
 <h3 id="getting-a-desktop-environment-and-display-manager">Getting a Desktop environment and Display manager</h3>
 <p>Here are some Desktop Environments that I recommend.</p>
 <table>
-<thead>
-<tr>
-<th>Desktop environment</th>
-<th>Install Command</th>
-<th>Pros</th>
-<th>Cons</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>XFCE</td>
-<td><code># pacman -S xfce4 xfce4-goodies xorg-server lightdm</code></td>
-<td>Very Simple <br> Lightweight <br> Customizable</td>
-<td>Lack of advanced features</td>
-</tr>
-<tr>
-<td>GNOME</td>
-<td><code># pacman -S gnome gnome-extras gdm</code></td>
-<td>Easy to use <br> clean interface</td>
-<td>Heavy on resources <br> not customizable</td>
-</tr>
-<tr>
-<td>KDE Plasma</td>
-<td><code># pacman -S plasma-meta kde-applications-meta sddm</code></td>
-<td>Heavily cutomizable <br> clean interface</td>
-<td>very resource intensive</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Desktop environment</th>
+          <th>Install Command</th>
+          <th>Pros</th>
+          <th>Cons</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>XFCE</td>
+          <td><code># pacman -S xfce4 xfce4-goodies xorg-server lightdm</code></td>
+          <td>Very Simple <br> Lightweight <br> Customizable</td>
+          <td>Lack of advanced features</td>
+      </tr>
+      <tr>
+          <td>GNOME</td>
+          <td><code># pacman -S gnome gnome-extras gdm</code></td>
+          <td>Easy to use <br> clean interface</td>
+          <td>Heavy on resources <br> not customizable</td>
+      </tr>
+      <tr>
+          <td>KDE Plasma</td>
+          <td><code># pacman -S plasma-meta kde-applications-meta sddm</code></td>
+          <td>Heavily cutomizable <br> clean interface</td>
+          <td>very resource intensive</td>
+      </tr>
+  </tbody>
 </table>
 <p>There are other desktop environments you can choose but the above are what I reccomend if you want to get started.</p>
 <p>For the guide I will outline the setup for each DE (desktop environment) and DM (display manager) in the table above.</p>
