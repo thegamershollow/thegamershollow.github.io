@@ -2,683 +2,683 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.github.io/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 09:19:03 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arch Linux</title>
-      <link>https://thegamershollow.github.io/en/tags/arch-linux/</link>
+      <link>http://localhost:1313/en/tags/arch-linux/</link>
       <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/arch-linux/</guid>
+      <guid>http://localhost:1313/en/tags/arch-linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer</title>
-      <link>https://thegamershollow.github.io/en/tags/computer/</link>
+      <link>http://localhost:1313/en/tags/computer/</link>
       <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/computer/</guid>
+      <guid>http://localhost:1313/en/tags/computer/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://thegamershollow.github.io/en/tags/linux/</link>
+      <link>http://localhost:1313/en/tags/linux/</link>
       <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/linux/</guid>
+      <guid>http://localhost:1313/en/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Os</title>
-      <link>https://thegamershollow.github.io/en/tags/os/</link>
+      <link>http://localhost:1313/en/tags/os/</link>
       <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/os/</guid>
+      <guid>http://localhost:1313/en/tags/os/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>https://thegamershollow.github.io/en/tags/tech/</link>
+      <link>http://localhost:1313/en/tags/tech/</link>
       <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/tech/</guid>
+      <guid>http://localhost:1313/en/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://thegamershollow.github.io/en/tags/technology/</link>
+      <link>http://localhost:1313/en/tags/technology/</link>
       <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/technology/</guid>
+      <guid>http://localhost:1313/en/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Guide</title>
-      <link>https://thegamershollow.github.io/en/tags/guide/</link>
+      <link>http://localhost:1313/en/tags/guide/</link>
       <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/guide/</guid>
+      <guid>http://localhost:1313/en/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Guide</title>
-      <link>https://thegamershollow.github.io/en/tags/linux-guide/</link>
+      <link>http://localhost:1313/en/tags/linux-guide/</link>
       <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/linux-guide/</guid>
+      <guid>http://localhost:1313/en/tags/linux-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Apple</title>
-      <link>https://thegamershollow.github.io/en/tags/apple/</link>
+      <link>http://localhost:1313/en/tags/apple/</link>
       <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/apple/</guid>
+      <guid>http://localhost:1313/en/tags/apple/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Mint</title>
-      <link>https://thegamershollow.github.io/en/tags/linux-mint/</link>
+      <link>http://localhost:1313/en/tags/linux-mint/</link>
       <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/linux-mint/</guid>
+      <guid>http://localhost:1313/en/tags/linux-mint/</guid>
       <description></description>
     </item>
     <item>
       <title>Macbook</title>
-      <link>https://thegamershollow.github.io/en/tags/macbook/</link>
+      <link>http://localhost:1313/en/tags/macbook/</link>
       <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/macbook/</guid>
+      <guid>http://localhost:1313/en/tags/macbook/</guid>
       <description></description>
     </item>
     <item>
       <title>Use-Case</title>
-      <link>https://thegamershollow.github.io/en/tags/use-case/</link>
+      <link>http://localhost:1313/en/tags/use-case/</link>
       <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/use-case/</guid>
+      <guid>http://localhost:1313/en/tags/use-case/</guid>
       <description></description>
     </item>
     <item>
       <title>Daily Driver</title>
-      <link>https://thegamershollow.github.io/en/tags/daily-driver/</link>
+      <link>http://localhost:1313/en/tags/daily-driver/</link>
       <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/daily-driver/</guid>
+      <guid>http://localhost:1313/en/tags/daily-driver/</guid>
       <description></description>
     </item>
     <item>
       <title>Operating Systems</title>
-      <link>https://thegamershollow.github.io/en/tags/operating-systems/</link>
+      <link>http://localhost:1313/en/tags/operating-systems/</link>
       <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/operating-systems/</guid>
+      <guid>http://localhost:1313/en/tags/operating-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>3DS</title>
-      <link>https://thegamershollow.github.io/en/tags/3ds/</link>
+      <link>http://localhost:1313/en/tags/3ds/</link>
       <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/3ds/</guid>
+      <guid>http://localhost:1313/en/tags/3ds/</guid>
       <description></description>
     </item>
     <item>
       <title>Emulation</title>
-      <link>https://thegamershollow.github.io/en/tags/emulation/</link>
+      <link>http://localhost:1313/en/tags/emulation/</link>
       <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/emulation/</guid>
+      <guid>http://localhost:1313/en/tags/emulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Homebrew</title>
-      <link>https://thegamershollow.github.io/en/tags/homebrew/</link>
+      <link>http://localhost:1313/en/tags/homebrew/</link>
       <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/homebrew/</guid>
+      <guid>http://localhost:1313/en/tags/homebrew/</guid>
       <description></description>
     </item>
     <item>
       <title>Jailbreak</title>
-      <link>https://thegamershollow.github.io/en/tags/jailbreak/</link>
+      <link>http://localhost:1313/en/tags/jailbreak/</link>
       <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/jailbreak/</guid>
+      <guid>http://localhost:1313/en/tags/jailbreak/</guid>
       <description></description>
     </item>
     <item>
       <title>Chromebook</title>
-      <link>https://thegamershollow.github.io/en/tags/chromebook/</link>
+      <link>http://localhost:1313/en/tags/chromebook/</link>
       <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/chromebook/</guid>
+      <guid>http://localhost:1313/en/tags/chromebook/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>https://thegamershollow.github.io/en/tags/google/</link>
+      <link>http://localhost:1313/en/tags/google/</link>
       <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/google/</guid>
+      <guid>http://localhost:1313/en/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Hack</title>
-      <link>https://thegamershollow.github.io/en/tags/hack/</link>
+      <link>http://localhost:1313/en/tags/hack/</link>
       <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/hack/</guid>
+      <guid>http://localhost:1313/en/tags/hack/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://thegamershollow.github.io/en/tags/tutorial/</link>
+      <link>http://localhost:1313/en/tags/tutorial/</link>
       <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/tutorial/</guid>
+      <guid>http://localhost:1313/en/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://thegamershollow.github.io/en/tags/windows/</link>
+      <link>http://localhost:1313/en/tags/windows/</link>
       <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/windows/</guid>
+      <guid>http://localhost:1313/en/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>N64</title>
-      <link>https://thegamershollow.github.io/en/tags/n64/</link>
+      <link>http://localhost:1313/en/tags/n64/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/n64/</guid>
+      <guid>http://localhost:1313/en/tags/n64/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>https://thegamershollow.github.io/en/tags/news/</link>
+      <link>http://localhost:1313/en/tags/news/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/news/</guid>
+      <guid>http://localhost:1313/en/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo</title>
-      <link>https://thegamershollow.github.io/en/tags/nintendo/</link>
+      <link>http://localhost:1313/en/tags/nintendo/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nintendo/</guid>
+      <guid>http://localhost:1313/en/tags/nintendo/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo Switch Online</title>
-      <link>https://thegamershollow.github.io/en/tags/nintendo-switch-online/</link>
+      <link>http://localhost:1313/en/tags/nintendo-switch-online/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nintendo-switch-online/</guid>
+      <guid>http://localhost:1313/en/tags/nintendo-switch-online/</guid>
       <description></description>
     </item>
     <item>
       <title>NSO Update</title>
-      <link>https://thegamershollow.github.io/en/tags/nso-update/</link>
+      <link>http://localhost:1313/en/tags/nso-update/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nso-update/</guid>
+      <guid>http://localhost:1313/en/tags/nso-update/</guid>
       <description></description>
     </item>
     <item>
       <title>Pokemon</title>
-      <link>https://thegamershollow.github.io/en/tags/pokemon/</link>
+      <link>http://localhost:1313/en/tags/pokemon/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/pokemon/</guid>
+      <guid>http://localhost:1313/en/tags/pokemon/</guid>
       <description></description>
     </item>
     <item>
       <title>Release</title>
-      <link>https://thegamershollow.github.io/en/tags/release/</link>
+      <link>http://localhost:1313/en/tags/release/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/release/</guid>
+      <guid>http://localhost:1313/en/tags/release/</guid>
       <description></description>
     </item>
     <item>
       <title>2023</title>
-      <link>https://thegamershollow.github.io/en/tags/2023/</link>
+      <link>http://localhost:1313/en/tags/2023/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/2023/</guid>
+      <guid>http://localhost:1313/en/tags/2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Canceled</title>
-      <link>https://thegamershollow.github.io/en/tags/canceled/</link>
+      <link>http://localhost:1313/en/tags/canceled/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/canceled/</guid>
+      <guid>http://localhost:1313/en/tags/canceled/</guid>
       <description></description>
     </item>
     <item>
       <title>E3</title>
-      <link>https://thegamershollow.github.io/en/tags/e3/</link>
+      <link>http://localhost:1313/en/tags/e3/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/e3/</guid>
+      <guid>http://localhost:1313/en/tags/e3/</guid>
       <description></description>
     </item>
     <item>
       <title>ESA</title>
-      <link>https://thegamershollow.github.io/en/tags/esa/</link>
+      <link>http://localhost:1313/en/tags/esa/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/esa/</guid>
+      <guid>http://localhost:1313/en/tags/esa/</guid>
       <description></description>
     </item>
     <item>
       <title>EShop</title>
-      <link>https://thegamershollow.github.io/en/tags/eshop/</link>
+      <link>http://localhost:1313/en/tags/eshop/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/eshop/</guid>
+      <guid>http://localhost:1313/en/tags/eshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Preservation</title>
-      <link>https://thegamershollow.github.io/en/tags/game-preservation/</link>
+      <link>http://localhost:1313/en/tags/game-preservation/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/game-preservation/</guid>
+      <guid>http://localhost:1313/en/tags/game-preservation/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>https://thegamershollow.github.io/en/tags/gaming/</link>
+      <link>http://localhost:1313/en/tags/gaming/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/gaming/</guid>
+      <guid>http://localhost:1313/en/tags/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Homebrew Community</title>
-      <link>https://thegamershollow.github.io/en/tags/homebrew-community/</link>
+      <link>http://localhost:1313/en/tags/homebrew-community/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/homebrew-community/</guid>
+      <guid>http://localhost:1313/en/tags/homebrew-community/</guid>
       <description></description>
     </item>
     <item>
       <title>Issues</title>
-      <link>https://thegamershollow.github.io/en/tags/issues/</link>
+      <link>http://localhost:1313/en/tags/issues/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/issues/</guid>
+      <guid>http://localhost:1313/en/tags/issues/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo 3DS</title>
-      <link>https://thegamershollow.github.io/en/tags/nintendo-3ds/</link>
+      <link>http://localhost:1313/en/tags/nintendo-3ds/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nintendo-3ds/</guid>
+      <guid>http://localhost:1313/en/tags/nintendo-3ds/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo EShop</title>
-      <link>https://thegamershollow.github.io/en/tags/nintendo-eshop/</link>
+      <link>http://localhost:1313/en/tags/nintendo-eshop/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nintendo-eshop/</guid>
+      <guid>http://localhost:1313/en/tags/nintendo-eshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo Wii U</title>
-      <link>https://thegamershollow.github.io/en/tags/nintendo-wii-u/</link>
+      <link>http://localhost:1313/en/tags/nintendo-wii-u/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nintendo-wii-u/</guid>
+      <guid>http://localhost:1313/en/tags/nintendo-wii-u/</guid>
       <description></description>
     </item>
     <item>
       <title>Shutdown</title>
-      <link>https://thegamershollow.github.io/en/tags/shutdown/</link>
+      <link>http://localhost:1313/en/tags/shutdown/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/shutdown/</guid>
+      <guid>http://localhost:1313/en/tags/shutdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://thegamershollow.github.io/en/tags/software/</link>
+      <link>http://localhost:1313/en/tags/software/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/software/</guid>
+      <guid>http://localhost:1313/en/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Article</title>
-      <link>https://thegamershollow.github.io/en/tags/article/</link>
+      <link>http://localhost:1313/en/tags/article/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/article/</guid>
+      <guid>http://localhost:1313/en/tags/article/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking News</title>
-      <link>https://thegamershollow.github.io/en/tags/breaking-news/</link>
+      <link>http://localhost:1313/en/tags/breaking-news/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/breaking-news/</guid>
+      <guid>http://localhost:1313/en/tags/breaking-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Important</title>
-      <link>https://thegamershollow.github.io/en/tags/important/</link>
+      <link>http://localhost:1313/en/tags/important/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/important/</guid>
+      <guid>http://localhost:1313/en/tags/important/</guid>
       <description></description>
     </item>
     <item>
       <title>LTT</title>
-      <link>https://thegamershollow.github.io/en/tags/ltt/</link>
+      <link>http://localhost:1313/en/tags/ltt/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/ltt/</guid>
+      <guid>http://localhost:1313/en/tags/ltt/</guid>
       <description></description>
     </item>
     <item>
       <title>Overview</title>
-      <link>https://thegamershollow.github.io/en/tags/overview/</link>
+      <link>http://localhost:1313/en/tags/overview/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/overview/</guid>
+      <guid>http://localhost:1313/en/tags/overview/</guid>
       <description></description>
     </item>
     <item>
       <title>YouTube</title>
-      <link>https://thegamershollow.github.io/en/tags/youtube/</link>
+      <link>http://localhost:1313/en/tags/youtube/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/youtube/</guid>
+      <guid>http://localhost:1313/en/tags/youtube/</guid>
       <description></description>
     </item>
     <item>
       <title>Analysis</title>
-      <link>https://thegamershollow.github.io/en/tags/analysis/</link>
+      <link>http://localhost:1313/en/tags/analysis/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/analysis/</guid>
+      <guid>http://localhost:1313/en/tags/analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Comparison</title>
-      <link>https://thegamershollow.github.io/en/tags/comparison/</link>
+      <link>http://localhost:1313/en/tags/comparison/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/comparison/</guid>
+      <guid>http://localhost:1313/en/tags/comparison/</guid>
       <description></description>
     </item>
     <item>
       <title>Consoles</title>
-      <link>https://thegamershollow.github.io/en/tags/consoles/</link>
+      <link>http://localhost:1313/en/tags/consoles/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/consoles/</guid>
+      <guid>http://localhost:1313/en/tags/consoles/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>https://thegamershollow.github.io/en/tags/hardware/</link>
+      <link>http://localhost:1313/en/tags/hardware/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/hardware/</guid>
+      <guid>http://localhost:1313/en/tags/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>Leaks</title>
-      <link>https://thegamershollow.github.io/en/tags/leaks/</link>
+      <link>http://localhost:1313/en/tags/leaks/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/leaks/</guid>
+      <guid>http://localhost:1313/en/tags/leaks/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo Switch</title>
-      <link>https://thegamershollow.github.io/en/tags/nintendo-switch/</link>
+      <link>http://localhost:1313/en/tags/nintendo-switch/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nintendo-switch/</guid>
+      <guid>http://localhost:1313/en/tags/nintendo-switch/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo Switch 2/Pro</title>
-      <link>https://thegamershollow.github.io/en/tags/nintendo-switch-2/pro/</link>
+      <link>http://localhost:1313/en/tags/nintendo-switch-2/pro/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/nintendo-switch-2/pro/</guid>
+      <guid>http://localhost:1313/en/tags/nintendo-switch-2/pro/</guid>
       <description></description>
     </item>
     <item>
       <title>Opinion</title>
-      <link>https://thegamershollow.github.io/en/tags/opinion/</link>
+      <link>http://localhost:1313/en/tags/opinion/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/opinion/</guid>
+      <guid>http://localhost:1313/en/tags/opinion/</guid>
       <description></description>
     </item>
     <item>
       <title>Rumors</title>
-      <link>https://thegamershollow.github.io/en/tags/rumors/</link>
+      <link>http://localhost:1313/en/tags/rumors/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/rumors/</guid>
+      <guid>http://localhost:1313/en/tags/rumors/</guid>
       <description></description>
     </item>
     <item>
       <title>Speculation</title>
-      <link>https://thegamershollow.github.io/en/tags/speculation/</link>
+      <link>http://localhost:1313/en/tags/speculation/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/speculation/</guid>
+      <guid>http://localhost:1313/en/tags/speculation/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Game</title>
-      <link>https://thegamershollow.github.io/en/tags/video-game/</link>
+      <link>http://localhost:1313/en/tags/video-game/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/video-game/</guid>
+      <guid>http://localhost:1313/en/tags/video-game/</guid>
       <description></description>
     </item>
     <item>
       <title>Aroma</title>
-      <link>https://thegamershollow.github.io/en/tags/aroma/</link>
+      <link>http://localhost:1313/en/tags/aroma/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/aroma/</guid>
+      <guid>http://localhost:1313/en/tags/aroma/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://thegamershollow.github.io/en/tags/development/</link>
+      <link>http://localhost:1313/en/tags/development/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/development/</guid>
+      <guid>http://localhost:1313/en/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Walkthrough</title>
-      <link>https://thegamershollow.github.io/en/tags/walkthrough/</link>
+      <link>http://localhost:1313/en/tags/walkthrough/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/walkthrough/</guid>
+      <guid>http://localhost:1313/en/tags/walkthrough/</guid>
       <description></description>
     </item>
     <item>
       <title>WiiU</title>
-      <link>https://thegamershollow.github.io/en/tags/wiiu/</link>
+      <link>http://localhost:1313/en/tags/wiiu/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/wiiu/</guid>
+      <guid>http://localhost:1313/en/tags/wiiu/</guid>
       <description></description>
     </item>
     <item>
       <title>Uncategorized</title>
-      <link>https://thegamershollow.github.io/en/tags/uncategorized/</link>
+      <link>http://localhost:1313/en/tags/uncategorized/</link>
       <pubDate>Mon, 06 Jun 2022 09:42:17 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/uncategorized/</guid>
+      <guid>http://localhost:1313/en/tags/uncategorized/</guid>
       <description></description>
     </item>
     <item>
       <title>2022</title>
-      <link>https://thegamershollow.github.io/en/tags/2022/</link>
+      <link>http://localhost:1313/en/tags/2022/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/2022/</guid>
+      <guid>http://localhost:1313/en/tags/2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Activision Blizzard</title>
-      <link>https://thegamershollow.github.io/en/tags/activision-blizzard/</link>
+      <link>http://localhost:1313/en/tags/activision-blizzard/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/activision-blizzard/</guid>
+      <guid>http://localhost:1313/en/tags/activision-blizzard/</guid>
       <description></description>
     </item>
     <item>
       <title>Ideas</title>
-      <link>https://thegamershollow.github.io/en/tags/ideas/</link>
+      <link>http://localhost:1313/en/tags/ideas/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/ideas/</guid>
+      <guid>http://localhost:1313/en/tags/ideas/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>https://thegamershollow.github.io/en/tags/microsoft/</link>
+      <link>http://localhost:1313/en/tags/microsoft/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/microsoft/</guid>
+      <guid>http://localhost:1313/en/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>Phil Spencer</title>
-      <link>https://thegamershollow.github.io/en/tags/phil-spencer/</link>
+      <link>http://localhost:1313/en/tags/phil-spencer/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/phil-spencer/</guid>
+      <guid>http://localhost:1313/en/tags/phil-spencer/</guid>
       <description></description>
     </item>
     <item>
       <title>Problems</title>
-      <link>https://thegamershollow.github.io/en/tags/problems/</link>
+      <link>http://localhost:1313/en/tags/problems/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/problems/</guid>
+      <guid>http://localhost:1313/en/tags/problems/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
-      <link>https://thegamershollow.github.io/en/tags/thoughts/</link>
+      <link>http://localhost:1313/en/tags/thoughts/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/thoughts/</guid>
+      <guid>http://localhost:1313/en/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>
       <title>Xbox</title>
-      <link>https://thegamershollow.github.io/en/tags/xbox/</link>
+      <link>http://localhost:1313/en/tags/xbox/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/xbox/</guid>
+      <guid>http://localhost:1313/en/tags/xbox/</guid>
       <description></description>
     </item>
     <item>
       <title>Xbox Game Studios</title>
-      <link>https://thegamershollow.github.io/en/tags/xbox-game-studios/</link>
+      <link>http://localhost:1313/en/tags/xbox-game-studios/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/xbox-game-studios/</guid>
+      <guid>http://localhost:1313/en/tags/xbox-game-studios/</guid>
       <description></description>
     </item>
     <item>
       <title>2021</title>
-      <link>https://thegamershollow.github.io/en/tags/2021/</link>
+      <link>http://localhost:1313/en/tags/2021/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/2021/</guid>
+      <guid>http://localhost:1313/en/tags/2021/</guid>
       <description></description>
     </item>
     <item>
       <title>Animal Crossing</title>
-      <link>https://thegamershollow.github.io/en/tags/animal-crossing/</link>
+      <link>http://localhost:1313/en/tags/animal-crossing/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/animal-crossing/</guid>
+      <guid>http://localhost:1313/en/tags/animal-crossing/</guid>
       <description></description>
     </item>
     <item>
       <title>DLC</title>
-      <link>https://thegamershollow.github.io/en/tags/dlc/</link>
+      <link>http://localhost:1313/en/tags/dlc/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/dlc/</guid>
+      <guid>http://localhost:1313/en/tags/dlc/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Updates</title>
-      <link>https://thegamershollow.github.io/en/tags/game-updates/</link>
+      <link>http://localhost:1313/en/tags/game-updates/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/game-updates/</guid>
+      <guid>http://localhost:1313/en/tags/game-updates/</guid>
       <description></description>
     </item>
     <item>
       <title>Trailer Reviews</title>
-      <link>https://thegamershollow.github.io/en/tags/trailer-reviews/</link>
+      <link>http://localhost:1313/en/tags/trailer-reviews/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/trailer-reviews/</guid>
+      <guid>http://localhost:1313/en/tags/trailer-reviews/</guid>
       <description></description>
     </item>
     <item>
       <title>2017</title>
-      <link>https://thegamershollow.github.io/en/tags/2017/</link>
+      <link>http://localhost:1313/en/tags/2017/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/2017/</guid>
+      <guid>http://localhost:1313/en/tags/2017/</guid>
       <description></description>
     </item>
     <item>
       <title>2020</title>
-      <link>https://thegamershollow.github.io/en/tags/2020/</link>
+      <link>http://localhost:1313/en/tags/2020/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/2020/</guid>
+      <guid>http://localhost:1313/en/tags/2020/</guid>
       <description></description>
     </item>
     <item>
       <title>2020-2021</title>
-      <link>https://thegamershollow.github.io/en/tags/2020-2021/</link>
+      <link>http://localhost:1313/en/tags/2020-2021/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/2020-2021/</guid>
+      <guid>http://localhost:1313/en/tags/2020-2021/</guid>
       <description></description>
     </item>
     <item>
       <title>2021 Rumors</title>
-      <link>https://thegamershollow.github.io/en/tags/2021-rumors/</link>
+      <link>http://localhost:1313/en/tags/2021-rumors/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/2021-rumors/</guid>
+      <guid>http://localhost:1313/en/tags/2021-rumors/</guid>
       <description></description>
     </item>
     <item>
       <title>Delays</title>
-      <link>https://thegamershollow.github.io/en/tags/delays/</link>
+      <link>http://localhost:1313/en/tags/delays/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/delays/</guid>
+      <guid>http://localhost:1313/en/tags/delays/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Games</title>
-      <link>https://thegamershollow.github.io/en/tags/video-games/</link>
+      <link>http://localhost:1313/en/tags/video-games/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/video-games/</guid>
+      <guid>http://localhost:1313/en/tags/video-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Info</title>
-      <link>https://thegamershollow.github.io/en/tags/info/</link>
+      <link>http://localhost:1313/en/tags/info/</link>
       <pubDate>Tue, 25 May 2021 16:58:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/info/</guid>
+      <guid>http://localhost:1313/en/tags/info/</guid>
       <description></description>
     </item>
     <item>
       <title>Reviews</title>
-      <link>https://thegamershollow.github.io/en/tags/reviews/</link>
+      <link>http://localhost:1313/en/tags/reviews/</link>
       <pubDate>Thu, 20 May 2021 12:49:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/reviews/</guid>
+      <guid>http://localhost:1313/en/tags/reviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Super Mario</title>
-      <link>https://thegamershollow.github.io/en/tags/super-mario/</link>
+      <link>http://localhost:1313/en/tags/super-mario/</link>
       <pubDate>Thu, 20 May 2021 12:49:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/super-mario/</guid>
+      <guid>http://localhost:1313/en/tags/super-mario/</guid>
       <description></description>
     </item>
     <item>
       <title>EA</title>
-      <link>https://thegamershollow.github.io/en/tags/ea/</link>
+      <link>http://localhost:1313/en/tags/ea/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/ea/</guid>
+      <guid>http://localhost:1313/en/tags/ea/</guid>
       <description></description>
     </item>
     <item>
       <title>Halo</title>
-      <link>https://thegamershollow.github.io/en/tags/halo/</link>
+      <link>http://localhost:1313/en/tags/halo/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/halo/</guid>
+      <guid>http://localhost:1313/en/tags/halo/</guid>
       <description></description>
     </item>
     <item>
       <title>Playstation</title>
-      <link>https://thegamershollow.github.io/en/tags/playstation/</link>
+      <link>http://localhost:1313/en/tags/playstation/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/playstation/</guid>
+      <guid>http://localhost:1313/en/tags/playstation/</guid>
       <description></description>
     </item>
     <item>
       <title>Sony</title>
-      <link>https://thegamershollow.github.io/en/tags/sony/</link>
+      <link>http://localhost:1313/en/tags/sony/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/sony/</guid>
+      <guid>http://localhost:1313/en/tags/sony/</guid>
       <description></description>
     </item>
     <item>
       <title>Zelda</title>
-      <link>https://thegamershollow.github.io/en/tags/zelda/</link>
+      <link>http://localhost:1313/en/tags/zelda/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/zelda/</guid>
+      <guid>http://localhost:1313/en/tags/zelda/</guid>
       <description></description>
     </item>
     <item>
       <title>Joycon</title>
-      <link>https://thegamershollow.github.io/en/tags/joycon/</link>
+      <link>http://localhost:1313/en/tags/joycon/</link>
       <pubDate>Fri, 29 Jan 2021 14:21:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/joycon/</guid>
+      <guid>http://localhost:1313/en/tags/joycon/</guid>
       <description></description>
     </item>
     <item>
       <title>Breath of the Wild 2</title>
-      <link>https://thegamershollow.github.io/en/tags/breath-of-the-wild-2/</link>
+      <link>http://localhost:1313/en/tags/breath-of-the-wild-2/</link>
       <pubDate>Mon, 04 Jan 2021 19:30:00 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/tags/breath-of-the-wild-2/</guid>
+      <guid>http://localhost:1313/en/tags/breath-of-the-wild-2/</guid>
       <description></description>
     </item>
   </channel>

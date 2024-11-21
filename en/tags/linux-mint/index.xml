@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Mint on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.github.io/en/tags/linux-mint/</link>
+    <link>http://localhost:1313/en/tags/linux-mint/</link>
     <description>Recent content in Linux Mint on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Wed, 21 Aug 2024 10:32:16 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.github.io/en/tags/linux-mint/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/linux-mint/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using a 13 Year Old Laptop With Linux</title>
-      <link>https://thegamershollow.github.io/en/posts/using-a-13-year-old-laptop-with-linux/</link>
+      <link>http://localhost:1313/en/posts/using-a-13-year-old-laptop-with-linux/</link>
       <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/posts/using-a-13-year-old-laptop-with-linux/</guid>
+      <guid>http://localhost:1313/en/posts/using-a-13-year-old-laptop-with-linux/</guid>
       <description>&lt;p&gt;I use a early 2011 Macbook Pro as my daily driver laptop, and it works for what I do, but it could be better. In this post I will overview the pros and cons of using this as my daily driver.&lt;/p&gt;&#xA;&lt;h3 id=&#34;pros&#34;&gt;Pros&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Good battery life&lt;/li&gt;&#xA;&lt;li&gt;Can use modern apps&lt;/li&gt;&#xA;&lt;li&gt;Has relatively good performance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;cons&#34;&gt;Cons&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;High temperature when doing normal tasks&lt;/li&gt;&#xA;&lt;li&gt;Can&amp;rsquo;t run modern games in high quality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;&#xA;&lt;p&gt;I use this as my daily driver laptop because it had good battery life, and is an intel based Mac that still supports old versions of Mac OS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using Linux as a Daily Driver</title>
-      <link>https://thegamershollow.github.io/en/posts/using-linux-as-a-daily-driver/</link>
+      <link>http://localhost:1313/en/posts/using-linux-as-a-daily-driver/</link>
       <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/posts/using-linux-as-a-daily-driver/</guid>
+      <guid>http://localhost:1313/en/posts/using-linux-as-a-daily-driver/</guid>
       <description>&lt;p&gt;Linux, lot&amp;rsquo;s of people use linux as their daily driver OS and I do as well, I use Linux Mint 22 as my daily drive OS in 2024 because it&amp;rsquo;s simple and easy to manage. I also use Linux because I have freedom of customization and installing anything I want to tweak the operating system as a whole.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-i-switched&#34;&gt;Why I Switched&lt;/h3&gt;&#xA;&lt;p&gt;I switched to Linux because I found it to be more open and inviting for the tweaks I wanted to make, Mac OS was very limited in what I could customize and do because of it&amp;rsquo;s secure nature in addition to that i&amp;rsquo;m using an old Macbook Pro from early 2011 as my daily driver laptop so the latest versions of Mac OS won&amp;rsquo;t run on my laptop so that was another reason for me to switch to linux.&lt;/p&gt;</description>
     </item>
   </channel>

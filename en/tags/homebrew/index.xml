@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homebrew on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.github.io/en/tags/homebrew/</link>
+    <link>http://localhost:1313/en/tags/homebrew/</link>
     <description>Recent content in Homebrew on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Tue, 09 Jul 2024 15:41:13 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.github.io/en/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3DS Homebrew is Amazing</title>
-      <link>https://thegamershollow.github.io/en/posts/3ds-homebrew-is-amazing/</link>
+      <link>http://localhost:1313/en/posts/3ds-homebrew-is-amazing/</link>
       <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/posts/3ds-homebrew-is-amazing/</guid>
+      <guid>http://localhost:1313/en/posts/3ds-homebrew-is-amazing/</guid>
       <description>&lt;p&gt;Homebrew on the 3DS/2DS is amazing, you are able to do so much with the handheld.&lt;/p&gt;&#xA;&lt;h3 id=&#34;getting-homebrew-onto-the-3ds&#34;&gt;Getting Homebrew onto the 3DS&lt;/h3&gt;&#xA;&lt;p&gt;Go to &lt;a href=&#34;https://3ds.hacks.guide&#34; target=&#34;_blank&#34;&gt;3ds.hacks.guide&lt;/a&gt;&#xA; and follow the guide there. After that you should have a jailbroken 3DS. Depending on what 3DS you have (2DS, 3DS, n3DS, n2DS, etc.) some homebrew apps might not work properly.&lt;/p&gt;&#xA;&lt;p&gt;Now that you have a jailbroken 3DS let&amp;rsquo;s go over the best homebrew for the 3DS. The best site to find 3DS homebrew is &lt;a href=&#34;https://www.gamebrew.org/wiki/List_of_3DS_homebrew_applications&#34; target=&#34;_blank&#34;&gt;gamebrew.org&lt;/a&gt;&#xA; and &lt;a href=&#34;https://db.universal-team.net/3ds/&#34; target=&#34;_blank&#34;&gt;universal-team.net&lt;/a&gt;&#xA;. Below I will list some of the homebrew apps that I recommend.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Era of Games at a Close</title>
-      <link>https://thegamershollow.github.io/en/posts/an-era-of-games-at-a-close/</link>
+      <link>http://localhost:1313/en/posts/an-era-of-games-at-a-close/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/posts/an-era-of-games-at-a-close/</guid>
+      <guid>http://localhost:1313/en/posts/an-era-of-games-at-a-close/</guid>
       <description>&lt;p&gt;The Nintendo Wii U and 3DS EShops have been officially shutdown, While you’ll no longer be able to purchase games or DLC from either EShop, you’ll still be able to redownload the games you’ve already bought and play online for the time being. The company warned of the shutdown about a year ago, the homebrew community has put lots of effort into archiving all the software that was/is available on the storefront.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Dummies Guide to Jailbreaking Your Wii U</title>
-      <link>https://thegamershollow.github.io/en/posts/dummies-guide-jailbreaking-wiiu/</link>
+      <link>http://localhost:1313/en/posts/dummies-guide-jailbreaking-wiiu/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/posts/dummies-guide-jailbreaking-wiiu/</guid>
+      <guid>http://localhost:1313/en/posts/dummies-guide-jailbreaking-wiiu/</guid>
       <description>&lt;h2 id=&#34;what-you-need&#34;&gt;What You Need&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A Wii U with the latest firmware installed (The Wii U can be from any region)&lt;/li&gt;&#xA;&lt;li&gt;An SD card or microSD card with an adapter&lt;/li&gt;&#xA;&lt;li&gt;A computer to copy files to the SD card&lt;/li&gt;&#xA;&lt;li&gt;An internet connection setup on your Wii U&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;setting-up-the-sd-card&#34;&gt;Setting up The SD Card&lt;/h2&gt;&#xA;&lt;p&gt;Plug the SD card into your computer and format it to FAT-32 a guide on how to do that can be found HERE. After formatting the SD card rename it to something &lt;strong&gt;other than wiiu&lt;/strong&gt; as it will not allow you to jailbreak your console if it it names wiiu.&lt;/p&gt;</description>
     </item>
   </channel>
