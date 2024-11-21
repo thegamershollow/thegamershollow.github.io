@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macbook on The Gamer&#39;s Hollow</title>
-    <link>http://localhost:1313/en/tags/macbook/</link>
+    <link>https://thegamershollow.github.io/en/tags/macbook/</link>
     <description>Recent content in Macbook on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Wed, 21 Aug 2024 10:32:16 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thegamershollow.github.io/en/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using a 13 Year Old Laptop With Linux</title>
-      <link>http://localhost:1313/en/posts/using-a-13-year-old-laptop-with-linux/</link>
+      <link>https://thegamershollow.github.io/en/posts/using-a-13-year-old-laptop-with-linux/</link>
       <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/using-a-13-year-old-laptop-with-linux/</guid>
+      <guid>https://thegamershollow.github.io/en/posts/using-a-13-year-old-laptop-with-linux/</guid>
       <description>&lt;p&gt;I use a early 2011 Macbook Pro as my daily driver laptop, and it works for what I do, but it could be better. In this post I will overview the pros and cons of using this as my daily driver.&lt;/p&gt;&#xA;&lt;h3 id=&#34;pros&#34;&gt;Pros&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Good battery life&lt;/li&gt;&#xA;&lt;li&gt;Can use modern apps&lt;/li&gt;&#xA;&lt;li&gt;Has relatively good performance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;cons&#34;&gt;Cons&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;High temperature when doing normal tasks&lt;/li&gt;&#xA;&lt;li&gt;Can&amp;rsquo;t run modern games in high quality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;&#xA;&lt;p&gt;I use this as my daily driver laptop because it had good battery life, and is an intel based Mac that still supports old versions of Mac OS.&lt;/p&gt;</description>
     </item>
   </channel>

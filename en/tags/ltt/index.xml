@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LTT on The Gamer&#39;s Hollow</title>
-    <link>http://localhost:1313/en/tags/ltt/</link>
+    <link>https://thegamershollow.github.io/en/tags/ltt/</link>
     <description>Recent content in LTT on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Tue, 28 Mar 2023 14:46:47 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/ltt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thegamershollow.github.io/en/tags/ltt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linus Media Group Got Hacked</title>
-      <link>http://localhost:1313/en/posts/ltt-hack/</link>
+      <link>https://thegamershollow.github.io/en/posts/ltt-hack/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/ltt-hack/</guid>
+      <guid>https://thegamershollow.github.io/en/posts/ltt-hack/</guid>
       <description>&lt;p&gt;On March 23, 2023, the tech review giant - Linus Tech Tips&amp;rsquo; main YouTube channel was hacked and turned into a crypto scam channel. Linus, the CEO of the company, was rudely awakened at 3 am to multiple reports of the hack. The LTT community rallied against the hackers, even going as far as using superchats to warn viewers of the scam livestream.&lt;/p&gt;&#xA;&lt;p&gt;The hack was not complicated and many channels on YouTube have been hacked in the same way. ThioJoe&amp;rsquo;s YouTube channel (youtube.com/@thiojoe) explains how channels are hacked. Typically, hackers send fake emails, such as a sponsorship or a YouTube DMCA email, with a PDF or other attachment. When the attachment is opened, it grabs the browser&amp;rsquo;s session token for that Google account. For more information on this process, I recommend watching &lt;a href=&#34;https://www.youtube.com/watch?v=xf9ERdBkM5M&#34; target=&#34;_blank&#34;&gt;ThioJoe&amp;rsquo;s video&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
     </item>
   </channel>

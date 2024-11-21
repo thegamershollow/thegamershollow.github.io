@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arch Linux on The Gamer&#39;s Hollow</title>
-    <link>http://localhost:1313/en/tags/arch-linux/</link>
+    <link>https://thegamershollow.github.io/en/tags/arch-linux/</link>
     <description>Recent content in Arch Linux on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Thu, 21 Nov 2024 09:19:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thegamershollow.github.io/en/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Switching to Arch Linux</title>
-      <link>http://localhost:1313/en/posts/switching-to-arch-linux/</link>
+      <link>https://thegamershollow.github.io/en/posts/switching-to-arch-linux/</link>
       <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/switching-to-arch-linux/</guid>
+      <guid>https://thegamershollow.github.io/en/posts/switching-to-arch-linux/</guid>
       <description>&lt;p&gt;About 3 months ago, I switched to using Linux instead of Mac OS or Windows, because it was more stable and open-source. Since that switch I had been using Linux Mint 22 as my daily driver OS but about a month ago I switched to a distro based on Arch - Endeavour OS - and have loved it since, the freedom of customization the freedom of being able to install almost anything from the AUR and the freedom of open-source software for gaming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arch Linux Install Guide</title>
-      <link>http://localhost:1313/en/posts/arch-linux-install-guide/</link>
+      <link>https://thegamershollow.github.io/en/posts/arch-linux-install-guide/</link>
       <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/arch-linux-install-guide/</guid>
+      <guid>https://thegamershollow.github.io/en/posts/arch-linux-install-guide/</guid>
       <description>&lt;p&gt;A usefull guide for installing arch linux using the command-line.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Arch Linux is a linux distro that a lot of people say is too hard to install because you have to do everything yourself, but as arch linux has grown the user base has as well and with that, it has become more simple to install.&lt;/p&gt;&#xA;&lt;p&gt;This guide is aimed at helping you install arch linux on your device. Let&amp;rsquo;s get to the installation.&lt;/p&gt;</description>
     </item>
   </channel>
