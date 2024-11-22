@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Guide on The Gamer&#39;s Hollow</title>
+    <link>https://thegamershollow.github.io/tags/linux-guide/</link>
+    <description>Recent content in Linux Guide on The Gamer&#39;s Hollow</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
+    <lastBuildDate>Wed, 21 Aug 2024 12:52:57 +0000</lastBuildDate>
+    <atom:link href="https://thegamershollow.github.io/tags/linux-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux Install Guide</title>
+      <link>https://thegamershollow.github.io/posts/arch-linux-install-guide/</link>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/posts/arch-linux-install-guide/</guid>
+      <description>&lt;p&gt;A usefull guide for installing arch linux using the command-line.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Arch Linux is a linux distro that a lot of people say is too hard to install because you have to do everything yourself, but as arch linux has grown the user base has as well and with that, it has become more simple to install.&lt;/p&gt;&#xA;&lt;p&gt;This guide is aimed at helping you install arch linux on your device. Let&amp;rsquo;s get to the installation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -4,710 +4,682 @@
     <title>Tags on The Gamer&#39;s Hollow</title>
     <link>https://thegamershollow.github.io/tags/</link>
     <description>Recent content in Tags on The Gamer&#39;s Hollow</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
-    <lastBuildDate>Wed, 05 Apr 2023 14:51:33 +0000</lastBuildDate><atom:link href="https://thegamershollow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2024 09:19:03 +0000</lastBuildDate>
+    <atom:link href="https://thegamershollow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux</title>
+      <link>https://thegamershollow.github.io/tags/arch-linux/</link>
+      <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/arch-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer</title>
+      <link>https://thegamershollow.github.io/tags/computer/</link>
+      <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/computer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://thegamershollow.github.io/tags/linux/</link>
+      <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Os</title>
+      <link>https://thegamershollow.github.io/tags/os/</link>
+      <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://thegamershollow.github.io/tags/tech/</link>
+      <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://thegamershollow.github.io/tags/technology/</link>
+      <pubDate>Thu, 21 Nov 2024 09:19:03 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>https://thegamershollow.github.io/tags/guide/</link>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Guide</title>
+      <link>https://thegamershollow.github.io/tags/linux-guide/</link>
+      <pubDate>Wed, 21 Aug 2024 12:52:57 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/linux-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple</title>
+      <link>https://thegamershollow.github.io/tags/apple/</link>
+      <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/apple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Mint</title>
+      <link>https://thegamershollow.github.io/tags/linux-mint/</link>
+      <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/linux-mint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macbook</title>
+      <link>https://thegamershollow.github.io/tags/macbook/</link>
+      <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/macbook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Use-Case</title>
+      <link>https://thegamershollow.github.io/tags/use-case/</link>
+      <pubDate>Wed, 21 Aug 2024 10:32:16 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/use-case/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daily Driver</title>
+      <link>https://thegamershollow.github.io/tags/daily-driver/</link>
+      <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/daily-driver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operating Systems</title>
+      <link>https://thegamershollow.github.io/tags/operating-systems/</link>
+      <pubDate>Fri, 16 Aug 2024 10:49:20 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3DS</title>
+      <link>https://thegamershollow.github.io/tags/3ds/</link>
+      <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/3ds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emulation</title>
+      <link>https://thegamershollow.github.io/tags/emulation/</link>
+      <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/emulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homebrew</title>
+      <link>https://thegamershollow.github.io/tags/homebrew/</link>
+      <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/homebrew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jailbreak</title>
+      <link>https://thegamershollow.github.io/tags/jailbreak/</link>
+      <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/jailbreak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chromebook</title>
+      <link>https://thegamershollow.github.io/tags/chromebook/</link>
+      <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/chromebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>https://thegamershollow.github.io/tags/google/</link>
+      <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hack</title>
+      <link>https://thegamershollow.github.io/tags/hack/</link>
+      <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/hack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://thegamershollow.github.io/tags/tutorial/</link>
+      <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://thegamershollow.github.io/tags/windows/</link>
+      <pubDate>Mon, 08 Jul 2024 19:05:21 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
     <item>
       <title>N64</title>
       <link>https://thegamershollow.github.io/tags/n64/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/n64/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>News</title>
       <link>https://thegamershollow.github.io/tags/news/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/news/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nintendo</title>
       <link>https://thegamershollow.github.io/tags/nintendo/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/nintendo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nintendo Switch Online</title>
       <link>https://thegamershollow.github.io/tags/nintendo-switch-online/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/nintendo-switch-online/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NSO Update</title>
       <link>https://thegamershollow.github.io/tags/nso-update/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/nso-update/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pokemon</title>
       <link>https://thegamershollow.github.io/tags/pokemon/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/pokemon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Release</title>
       <link>https://thegamershollow.github.io/tags/release/</link>
       <pubDate>Wed, 05 Apr 2023 14:51:33 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/release/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2023</title>
       <link>https://thegamershollow.github.io/tags/2023/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Canceled</title>
       <link>https://thegamershollow.github.io/tags/canceled/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/canceled/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>E3</title>
       <link>https://thegamershollow.github.io/tags/e3/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/e3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ESA</title>
       <link>https://thegamershollow.github.io/tags/esa/</link>
       <pubDate>Wed, 05 Apr 2023 14:49:02 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/esa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>EShop</title>
       <link>https://thegamershollow.github.io/tags/eshop/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/eshop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Game Preservation</title>
       <link>https://thegamershollow.github.io/tags/game-preservation/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/game-preservation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gaming</title>
       <link>https://thegamershollow.github.io/tags/gaming/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/gaming/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Homebrew</title>
-      <link>https://thegamershollow.github.io/tags/homebrew/</link>
-      <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
-      <guid>https://thegamershollow.github.io/tags/homebrew/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Homebrew Community</title>
       <link>https://thegamershollow.github.io/tags/homebrew-community/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/homebrew-community/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Issues</title>
       <link>https://thegamershollow.github.io/tags/issues/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/issues/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nintendo 3DS</title>
       <link>https://thegamershollow.github.io/tags/nintendo-3ds/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/nintendo-3ds/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nintendo EShop</title>
       <link>https://thegamershollow.github.io/tags/nintendo-eshop/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/nintendo-eshop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nintendo Wii U</title>
       <link>https://thegamershollow.github.io/tags/nintendo-wii-u/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/nintendo-wii-u/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Shutdown</title>
       <link>https://thegamershollow.github.io/tags/shutdown/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/shutdown/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Software</title>
       <link>https://thegamershollow.github.io/tags/software/</link>
       <pubDate>Wed, 29 Mar 2023 12:43:29 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/software/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Article</title>
       <link>https://thegamershollow.github.io/tags/article/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/article/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Breaking News</title>
       <link>https://thegamershollow.github.io/tags/breaking-news/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/breaking-news/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Google</title>
-      <link>https://thegamershollow.github.io/tags/google/</link>
-      <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      
-      <guid>https://thegamershollow.github.io/tags/google/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Important</title>
       <link>https://thegamershollow.github.io/tags/important/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/important/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>LTT</title>
       <link>https://thegamershollow.github.io/tags/ltt/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/ltt/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Overview</title>
       <link>https://thegamershollow.github.io/tags/overview/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/overview/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>YouTube</title>
       <link>https://thegamershollow.github.io/tags/youtube/</link>
       <pubDate>Tue, 28 Mar 2023 14:46:47 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/youtube/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Analysis</title>
       <link>https://thegamershollow.github.io/tags/analysis/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Comparison</title>
       <link>https://thegamershollow.github.io/tags/comparison/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/comparison/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Consoles</title>
       <link>https://thegamershollow.github.io/tags/consoles/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/consoles/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hardware</title>
       <link>https://thegamershollow.github.io/tags/hardware/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/hardware/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Leaks</title>
       <link>https://thegamershollow.github.io/tags/leaks/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/leaks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Nintendo switch</title>
+      <title>Nintendo Switch</title>
       <link>https://thegamershollow.github.io/tags/nintendo-switch/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/nintendo-switch/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Nintendo Switch 2/Pro</title>
+      <link>https://thegamershollow.github.io/tags/nintendo-switch-2/pro/</link>
+      <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
+      <guid>https://thegamershollow.github.io/tags/nintendo-switch-2/pro/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Opinion</title>
       <link>https://thegamershollow.github.io/tags/opinion/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/opinion/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rumors</title>
+      <title>Rumors</title>
       <link>https://thegamershollow.github.io/tags/rumors/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/rumors/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Speculation</title>
       <link>https://thegamershollow.github.io/tags/speculation/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/speculation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Video Game</title>
       <link>https://thegamershollow.github.io/tags/video-game/</link>
       <pubDate>Wed, 15 Mar 2023 10:57:55 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/video-game/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Aroma</title>
       <link>https://thegamershollow.github.io/tags/aroma/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/aroma/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Development</title>
       <link>https://thegamershollow.github.io/tags/development/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/development/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Guide</title>
-      <link>https://thegamershollow.github.io/tags/guide/</link>
-      <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      
-      <guid>https://thegamershollow.github.io/tags/guide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jailbreak</title>
-      <link>https://thegamershollow.github.io/tags/jailbreak/</link>
-      <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      
-      <guid>https://thegamershollow.github.io/tags/jailbreak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://thegamershollow.github.io/tags/tutorial/</link>
-      <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      
-      <guid>https://thegamershollow.github.io/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Walkthrough</title>
       <link>https://thegamershollow.github.io/tags/walkthrough/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/walkthrough/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WiiU</title>
       <link>https://thegamershollow.github.io/tags/wiiu/</link>
       <pubDate>Sat, 18 Feb 2023 16:21:56 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/wiiu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Uncategorized</title>
       <link>https://thegamershollow.github.io/tags/uncategorized/</link>
       <pubDate>Mon, 06 Jun 2022 09:42:17 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/uncategorized/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2022</title>
       <link>https://thegamershollow.github.io/tags/2022/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/2022/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>activision blizzard</title>
+      <title>Activision Blizzard</title>
       <link>https://thegamershollow.github.io/tags/activision-blizzard/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/activision-blizzard/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ideas</title>
+      <title>Ideas</title>
       <link>https://thegamershollow.github.io/tags/ideas/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/ideas/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>microsoft</title>
+      <title>Microsoft</title>
       <link>https://thegamershollow.github.io/tags/microsoft/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/microsoft/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Phil Spencer</title>
       <link>https://thegamershollow.github.io/tags/phil-spencer/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/phil-spencer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Problems</title>
       <link>https://thegamershollow.github.io/tags/problems/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/problems/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thoughts</title>
+      <title>Thoughts</title>
       <link>https://thegamershollow.github.io/tags/thoughts/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/thoughts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>xbox</title>
+      <title>Xbox</title>
       <link>https://thegamershollow.github.io/tags/xbox/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/xbox/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>xbox game studios</title>
+      <title>Xbox Game Studios</title>
       <link>https://thegamershollow.github.io/tags/xbox-game-studios/</link>
       <pubDate>Sun, 06 Feb 2022 16:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/xbox-game-studios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2021</title>
       <link>https://thegamershollow.github.io/tags/2021/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/2021/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>animal crossing</title>
+      <title>Animal Crossing</title>
       <link>https://thegamershollow.github.io/tags/animal-crossing/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/animal-crossing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DLC</title>
       <link>https://thegamershollow.github.io/tags/dlc/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/dlc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>game updates</title>
+      <title>Game Updates</title>
       <link>https://thegamershollow.github.io/tags/game-updates/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/game-updates/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>trailer reviews</title>
+      <title>Trailer Reviews</title>
       <link>https://thegamershollow.github.io/tags/trailer-reviews/</link>
       <pubDate>Wed, 20 Oct 2021 17:04:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/trailer-reviews/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2017</title>
       <link>https://thegamershollow.github.io/tags/2017/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/2017/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2020</title>
       <link>https://thegamershollow.github.io/tags/2020/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/2020/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2020-2021</title>
       <link>https://thegamershollow.github.io/tags/2020-2021/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/2020-2021/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>2021 rumors</title>
+      <title>2021 Rumors</title>
       <link>https://thegamershollow.github.io/tags/2021-rumors/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/2021-rumors/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>delays</title>
+      <title>Delays</title>
       <link>https://thegamershollow.github.io/tags/delays/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/delays/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>video games</title>
+      <title>Video Games</title>
       <link>https://thegamershollow.github.io/tags/video-games/</link>
       <pubDate>Tue, 01 Jun 2021 17:57:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/video-games/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>info</title>
+      <title>Info</title>
       <link>https://thegamershollow.github.io/tags/info/</link>
       <pubDate>Tue, 25 May 2021 16:58:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/info/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>reviews</title>
+      <title>Reviews</title>
       <link>https://thegamershollow.github.io/tags/reviews/</link>
       <pubDate>Thu, 20 May 2021 12:49:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/reviews/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>super mario</title>
+      <title>Super Mario</title>
       <link>https://thegamershollow.github.io/tags/super-mario/</link>
       <pubDate>Thu, 20 May 2021 12:49:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/super-mario/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>EA</title>
       <link>https://thegamershollow.github.io/tags/ea/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/ea/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>halo</title>
+      <title>Halo</title>
       <link>https://thegamershollow.github.io/tags/halo/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/halo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Playstation</title>
       <link>https://thegamershollow.github.io/tags/playstation/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/playstation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sony</title>
       <link>https://thegamershollow.github.io/tags/sony/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/sony/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Zelda</title>
       <link>https://thegamershollow.github.io/tags/zelda/</link>
       <pubDate>Thu, 06 May 2021 14:00:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/zelda/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>joycon</title>
+      <title>Joycon</title>
       <link>https://thegamershollow.github.io/tags/joycon/</link>
       <pubDate>Fri, 29 Jan 2021 14:21:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/joycon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Breath of The Wild 2</title>
+      <title>Breath of the Wild 2</title>
       <link>https://thegamershollow.github.io/tags/breath-of-the-wild-2/</link>
       <pubDate>Mon, 04 Jan 2021 19:30:00 +0000</pubDate>
-      
       <guid>https://thegamershollow.github.io/tags/breath-of-the-wild-2/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Nintendo Switch 2/pro</title>
-      <link>https://thegamershollow.github.io/tags/nintendo-switch-2/pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thegamershollow.github.io/tags/nintendo-switch-2/pro/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

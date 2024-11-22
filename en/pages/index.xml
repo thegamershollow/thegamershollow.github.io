@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.github.io/en/pages/</link>
+    <link>http://localhost:1313/en/pages/</link>
     <description>Recent content in Pages on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Sun, 19 Mar 2023 13:35:09 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.github.io/en/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://thegamershollow.github.io/en/pages/about/</link>
+      <link>http://localhost:1313/en/pages/about/</link>
       <pubDate>Sun, 19 Mar 2023 13:35:09 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/pages/about/</guid>
+      <guid>http://localhost:1313/en/pages/about/</guid>
       <description>&lt;h2 id=&#34;about-this-site&#34;&gt;About this site&lt;/h2&gt;&#xA;&lt;p&gt;thegamershollow.space covers gaming news, and homebrew tutorials. Game reviews, previews or retro gaming articles are just few things you will find on the site. We like to cover video games past, present and future.&lt;/p&gt;&#xA;&lt;h3 id=&#34;main-writer-ethan-aka-thegamershollow&#34;&gt;Main Writer: Ethan &lt;em&gt;aka. TheGamersHollow&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;p&gt;I am a Video Game enthusiast, and a computer programer. I have been playing video games for most of my life, and am an avid part of the Wii U and 3DS homebrew community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://thegamershollow.github.io/en/pages/privacy/</link>
+      <link>http://localhost:1313/en/pages/privacy/</link>
       <pubDate>Sat, 11 Mar 2023 13:58:41 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/pages/privacy/</guid>
+      <guid>http://localhost:1313/en/pages/privacy/</guid>
       <description>&lt;h1 id=&#34;privacy-policy-for-the-gamers-hollow&#34;&gt;Privacy Policy for The Gamers Hollow&lt;/h1&gt;&#xA;&lt;p&gt;At The Gamers Hollow, accessible from &lt;a href=&#34;thegamershollow.space&#34;&gt;thegamershollow.space&lt;/a&gt;&#xA;, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Gamers Hollow and how we use it.&lt;/p&gt;&#xA;&lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;&#xA;&lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in The Gamers Hollow. This policy is not applicable to any information collected offline or via channels other than this website.&lt;/p&gt;</description>
     </item>
   </channel>

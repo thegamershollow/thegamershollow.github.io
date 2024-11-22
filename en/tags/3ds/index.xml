@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3DS on The Gamer&#39;s Hollow</title>
-    <link>https://thegamershollow.github.io/en/tags/3ds/</link>
+    <link>http://localhost:1313/en/tags/3ds/</link>
     <description>Recent content in 3DS on The Gamer&#39;s Hollow</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy;2023 The Gamer&#39;s Hollow | Hero Image by Lorenzo Herrera on Unsplash</copyright>
     <lastBuildDate>Tue, 09 Jul 2024 15:41:13 +0000</lastBuildDate>
-    <atom:link href="https://thegamershollow.github.io/en/tags/3ds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/3ds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3DS Homebrew is Amazing</title>
-      <link>https://thegamershollow.github.io/en/posts/3ds-homebrew-is-amazing/</link>
+      <link>http://localhost:1313/en/posts/3ds-homebrew-is-amazing/</link>
       <pubDate>Tue, 09 Jul 2024 15:41:13 +0000</pubDate>
-      <guid>https://thegamershollow.github.io/en/posts/3ds-homebrew-is-amazing/</guid>
+      <guid>http://localhost:1313/en/posts/3ds-homebrew-is-amazing/</guid>
       <description>&lt;p&gt;Homebrew on the 3DS/2DS is amazing, you are able to do so much with the handheld.&lt;/p&gt;&#xA;&lt;h3 id=&#34;getting-homebrew-onto-the-3ds&#34;&gt;Getting Homebrew onto the 3DS&lt;/h3&gt;&#xA;&lt;p&gt;Go to &lt;a href=&#34;https://3ds.hacks.guide&#34; target=&#34;_blank&#34;&gt;3ds.hacks.guide&lt;/a&gt;&#xA; and follow the guide there. After that you should have a jailbroken 3DS. Depending on what 3DS you have (2DS, 3DS, n3DS, n2DS, etc.) some homebrew apps might not work properly.&lt;/p&gt;&#xA;&lt;p&gt;Now that you have a jailbroken 3DS let&amp;rsquo;s go over the best homebrew for the 3DS. The best site to find 3DS homebrew is &lt;a href=&#34;https://www.gamebrew.org/wiki/List_of_3DS_homebrew_applications&#34; target=&#34;_blank&#34;&gt;gamebrew.org&lt;/a&gt;&#xA; and &lt;a href=&#34;https://db.universal-team.net/3ds/&#34; target=&#34;_blank&#34;&gt;universal-team.net&lt;/a&gt;&#xA;. Below I will list some of the homebrew apps that I recommend.&lt;/p&gt;</description>
     </item>
   </channel>
