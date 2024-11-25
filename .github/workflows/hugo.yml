@@ -59,10 +59,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Checkout gh-pages branch (create if doesn't exist)
+      - name: Checkout the repository
         uses: actions/checkout@v4
         with:
-          ref: gh-pages  # Checkout gh-pages, if it doesn't exist, it will be created
+          ref: main  # Ensure we're starting from the main branch
           fetch-depth: 0  # Ensure full history is fetched
 
       - name: Set up Git for deployment
@@ -71,28 +71,27 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git status  # Log the current status of the repository
 
-      - name: Create gh-pages branch if it doesn't exist
+      - name: Check if gh-pages branch exists and create if necessary
         run: |
-          git fetch
-          git branch -a  # List all branches, check for gh-pages existence
-          if [ -z "$(git branch --list gh-pages)" ]; then
-            echo "Creating new gh-pages branch"
-            git checkout --orphan gh-pages
-            git rm -rf .  # Clean up existing files if any
+          git fetch  # Fetch all branches from the remote
+          if git branch --list gh-pages; then
+            echo "gh-pages branch exists, checking it out"
+            git checkout gh-pages  # Checkout gh-pages if it exists
           else
-            echo "Checking out existing gh-pages branch"
-            git checkout gh-pages
+            echo "Creating new gh-pages branch"
+            git checkout --orphan gh-pages  # Create a new orphan branch
+            git rm -rf .  # Clean up the working tree
           fi
-          git status  # Log the repository status again
+          git status  # Log the repository status
 
-      - name: Copy public folder to gh-pages
+      - name: Copy the public folder to gh-pages
         run: |
           echo "Copying files to gh-pages"
           cp -r ./public/* ./  # Copy the Hugo build files to the root of gh-pages
           git add -A
-          git status  # Show the changes before commit
-          git commit -m "Deploy site to GitHub Pages" || echo "No changes to commit"  # If no changes, ignore
-          git status  # Log the status again
+          git status  # Log the changes to be committed
+          git commit -m "Deploy site to GitHub Pages" || echo "No changes to commit"  # Avoid errors if there are no changes
+          git status  # Log the commit status
 
       - name: Push changes to gh-pages branch
         run: |
@@ -104,4 +103,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          branch: gh-pages  # Make sure it's deploying from the correct branch
+          branch: gh-pages  # Ensure it's deploying from the correct branch
