@@ -1,0 +1,3 @@
+[submodule "themes/hamburg"]
+	path = themes/hamburg
+	url = https://github.com/thegamershollow/hugo-theme-hamburg.git
