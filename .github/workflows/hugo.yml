@@ -73,8 +73,8 @@ jobs:
 
       - name: Check if gh-pages branch exists and create if necessary
         run: |
-          git fetch  # Fetch all branches from the remote
-          if git branch --list gh-pages; then
+          git fetch --all  # Fetch all branches from the remote
+          if git show-ref --quiet refs/heads/gh-pages; then
             echo "gh-pages branch exists, checking it out"
             git checkout gh-pages  # Checkout gh-pages if it exists
           else
