@@ -21,4 +21,5 @@ Gemfile.lock
 # Ignore hugo build file
 public/
 .hugo_build.lock
-
+#ignore scripts folder
+scripts/
