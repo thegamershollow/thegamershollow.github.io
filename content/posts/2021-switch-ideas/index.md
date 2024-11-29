@@ -6,7 +6,7 @@ tags: ['2021', 'ideas', 'joycon', 'Nintendo', 'Nintendo switch', 'Problems', 'Un
 author: "TheGamersHollow"
 ---
 
-![](https://1.bp.blogspot.com/-I8fZGYBBOe4/YBQcPbl6zVI/AAAAAAAAA6w/PTeN6DmkqtEoePAzC_K6kOBS8h2-eJlSgCLcBGAsYHQ/w640-h329/Nintendo%2Bswitch-clipart.png)
+![](images/Nintendo-switch-clipart.png)
 
   
 
